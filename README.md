@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ajinkya%20Ghate&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EAF4FF&height=180&section=header&text=Ajinkya%20Ghate&fontSize=48&fontColor=0F172A&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=62&descSize=18&descColor=2563EB" width="100%"/>
 
 ### Building fast, scalable & user-focused web applications.
 
